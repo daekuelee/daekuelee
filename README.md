@@ -11,4 +11,4 @@
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=daegulee" width="42%" height="100%"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daekuelee)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](./stats.svg)
