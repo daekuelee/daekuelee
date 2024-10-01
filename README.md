@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Software Engineer
 - 🌱 I’m currently learning English and algorithms more dedicatedly.
 - 📫 How to reach me: daekue12@gmail.com
-
+- I majored Mechanical Engineering
 ### Statistics
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=daekuelee&show_icons=true&theme=holi" width = "49%" height="130%" />
