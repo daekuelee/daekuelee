@@ -5,8 +5,7 @@
 - 📫 How to reach me: daekue12@gmail.com
 - I majored Mechanical Engineering
 
-### Statistics
 <div>
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=daegulee" width="42%" height="100%"/>
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=daegulee" width="42%" height="42%"/>
 </div>
 
