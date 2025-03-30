@@ -10,7 +10,3 @@
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=daegulee" width="42%" height="100%"/>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-
